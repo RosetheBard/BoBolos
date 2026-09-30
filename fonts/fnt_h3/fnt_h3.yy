@@ -208,8 +208,8 @@
   "maintainGms1Font":false,
   "name":"fnt_h3",
   "parent":{
-    "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "name":"Fontes",
+    "path":"folders/Fontes.yy",
   },
   "pointRounding":0,
   "ranges":[

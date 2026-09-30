@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Controler_Creditos",
+  "%Name":"obj_controler_creditos",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Controler_Creditos",
+  "name":"obj_controler_creditos",
   "overriddenProperties":[],
   "parent":{
     "name":"Controlers",

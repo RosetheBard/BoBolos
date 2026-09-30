@@ -5,15 +5,15 @@
   "managed":true,
   "name":"obj_btn_leave",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btnBalloon","path":"objects/obj_btnBalloon/obj_btnBalloon.yy",},"propertyId":{"name":"_gamePath","path":"objects/obj_btnBalloon/obj_btnBalloon.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"end",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btn_balloon","path":"objects/obj_btn_balloon/obj_btn_balloon.yy",},"propertyId":{"name":"_gamePath","path":"objects/obj_btn_balloon/obj_btn_balloon.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"end",},
   ],
   "parent":{
-    "name":"botões balão",
-    "path":"folders/Objetos/Menu/botões balão.yy",
+    "name":"Botoes",
+    "path":"folders/Objetos/Menu/Botoes.yy",
   },
   "parentObjectId":{
-    "name":"obj_btnBalloon",
-    "path":"objects/obj_btnBalloon/obj_btnBalloon.yy",
+    "name":"obj_btn_balloon",
+    "path":"objects/obj_btn_balloon/obj_btn_balloon.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_RedBaloon",
-    "path":"sprites/spr_RedBaloon/spr_RedBaloon.yy",
+    "name":"spr_balao_vermelho",
+    "path":"sprites/spr_balao_vermelho/spr_balao_vermelho.yy",
   },
   "spriteMaskId":null,
   "visible":true,

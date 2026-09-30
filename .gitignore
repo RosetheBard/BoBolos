@@ -60,3 +60,12 @@ Temporary Items
 
 # GMRT build directory
 Build
+
+# Pastas temporárias e de cache do GameMaker
+.gm_cache/
+assets/
+cache/
+options/main/inherited/
+
+# Arquivos de configuração local do usuário
+local_settings.json

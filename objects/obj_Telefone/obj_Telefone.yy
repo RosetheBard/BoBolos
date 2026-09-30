@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Telefone",
+  "%Name":"obj_telefone",
   "eventList":[],
   "managed":true,
-  "name":"obj_Telefone",
+  "name":"obj_telefone",
   "overriddenProperties":[],
   "parent":{
-    "name":"Salão",
-    "path":"folders/Objetos/Salão.yy",
+    "name":"Salao",
+    "path":"folders/Objetos/Salao.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Telefone",
-    "path":"sprites/spr_Telefone/spr_Telefone.yy",
+    "name":"spr_telefone",
+    "path":"sprites/spr_telefone/spr_telefone.yy",
   },
   "spriteMaskId":null,
   "visible":true,

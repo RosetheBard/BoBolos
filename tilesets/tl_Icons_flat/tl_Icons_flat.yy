@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_icon_button",
-    "path":"sprites/spr_icon_button/spr_icon_button.yy",
+    "name":"spr_icon_btn",
+    "path":"sprites/spr_icon_btn/spr_icon_btn.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

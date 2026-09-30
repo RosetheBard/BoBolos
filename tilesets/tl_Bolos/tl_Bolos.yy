@@ -1,6 +1,6 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tl_Bolos",
+  "%Name":"tl_bolos",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":14,
@@ -10,7 +10,7 @@
     ],
     "TileDataFormat":1,
   },
-  "name":"tl_Bolos",
+  "name":"tl_bolos",
   "out_columns":20,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -21,8 +21,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_Cakes",
-    "path":"sprites/spr_Cakes/spr_Cakes.yy",
+    "name":"spr_bolos",
+    "path":"sprites/spr_bolos/spr_bolos.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
