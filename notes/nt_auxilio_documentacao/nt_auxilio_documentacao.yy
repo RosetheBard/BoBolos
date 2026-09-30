@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"nt_auxilio_documentacao",
+  "name":"nt_auxilio_documentacao",
+  "parent":{
+    "name":"Notas",
+    "path":"folders/Notas.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

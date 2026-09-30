@@ -1,0 +1,41 @@
+# Como funciona a documentação
+
+Este código contém diferentes formas de apresentar tópicos, então esta nota serve para auxiliar na compreensão do escopo de cada um.
+
+## Resumo de evento
+
+```
+// ==============================  
+// TEMA PRINCIPAL DO EVENTO
+// ==============================  
+```
+
+## Explicação de uma função
+
+```
+// ============================== 
+/// @desc descrição da função
+/// @param {String} parametro da função
+/// @param {Real | int} parametro da função
+/// @return {Bool}
+```
+
+## Descrição de um bloco grande
+
+```
+// ------------------------------  
+// Tema do bloco
+// ------------------------------
+```
+
+## Descrição de um bloco pequeno
+
+```
+// ---------- Tema do bloco
+```
+
+## Notas pontuais sobre linhas
+
+```
+// comentário convencional  
+```

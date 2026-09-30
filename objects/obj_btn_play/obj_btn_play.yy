@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_YellowBaloon",
+  "%Name":"obj_btn_play",
   "eventList":[],
   "managed":true,
-  "name":"obj_YellowBaloon",
+  "name":"obj_btn_play",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btn_Menu","path":"objects/obj_btn_Menu/obj_btn_Menu.yy",},"propertyId":{"name":"_gamePath","path":"objects/obj_btn_Menu/obj_btn_Menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"back",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btnBalloon","path":"objects/obj_btnBalloon/obj_btnBalloon.yy",},"propertyId":{"name":"_gamePath","path":"objects/obj_btnBalloon/obj_btnBalloon.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"play",},
   ],
   "parent":{
     "name":"botões balão",
     "path":"folders/Objetos/Menu/botões balão.yy",
   },
   "parentObjectId":{
-    "name":"obj_btn_Menu",
-    "path":"objects/obj_btn_Menu/obj_btn_Menu.yy",
+    "name":"obj_btnBalloon",
+    "path":"objects/obj_btnBalloon/obj_btnBalloon.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_YellowBaloon",
-    "path":"sprites/spr_YellowBaloon/spr_YellowBaloon.yy",
+    "name":"spr_PinkBaloon",
+    "path":"sprites/spr_PinkBaloon/spr_PinkBaloon.yy",
   },
   "spriteMaskId":null,
   "visible":true,

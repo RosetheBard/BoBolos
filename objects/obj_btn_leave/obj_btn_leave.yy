@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_RedBaloon",
+  "%Name":"obj_btn_leave",
   "eventList":[],
   "managed":true,
-  "name":"obj_RedBaloon",
+  "name":"obj_btn_leave",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btn_Menu","path":"objects/obj_btn_Menu/obj_btn_Menu.yy",},"propertyId":{"name":"_gamePath","path":"objects/obj_btn_Menu/obj_btn_Menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"end",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btnBalloon","path":"objects/obj_btnBalloon/obj_btnBalloon.yy",},"propertyId":{"name":"_gamePath","path":"objects/obj_btnBalloon/obj_btnBalloon.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"end",},
   ],
   "parent":{
     "name":"botões balão",
     "path":"folders/Objetos/Menu/botões balão.yy",
   },
   "parentObjectId":{
-    "name":"obj_btn_Menu",
-    "path":"objects/obj_btn_Menu/obj_btn_Menu.yy",
+    "name":"obj_btnBalloon",
+    "path":"objects/obj_btnBalloon/obj_btnBalloon.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

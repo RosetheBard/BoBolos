@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_reset_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_reset_draw",
+  "parent":{
+    "name":"Globais",
+    "path":"folders/Scripts/Globais.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
