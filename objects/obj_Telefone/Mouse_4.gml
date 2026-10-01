@@ -1,11 +1,19 @@
 // ==============================  
-// Quando apertar para atender o telefone
-// ==============================  
+// ATENDER/DESLIGAR TELEFONE
+// ============================== 
 
-// ------------------------------  
-// Esconder o alerta de chamado
-// ------------------------------
+if (global.estado_telefone == ESTADOS_TELEFONE.ATENDENDO) {
+    // ---------- Ações ao confirmar leitura do pedido
+    
+    global.estado_telefone = ESTADOS_TELEFONE.OCIOSO;
+    room_goto(rm_cozinha);
+}
 
-// ------------------------------  
-// chamar o pedido de um cliente
-// ------------------------------
+if (global.estado_telefone == ESTADOS_TELEFONE.TOCANDO) {
+    // ---------- Ações ao atender o telefone
+    
+    global.estado_telefone = ESTADOS_TELEFONE.ATENDENDO;
+    layer_set_visible(layer_alerta, false);
+    scr_sorteia_cliente();
+}
+
