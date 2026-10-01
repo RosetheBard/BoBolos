@@ -1,6 +1,7 @@
 // ============================== 
 /// @desc escolhe o cliente que está ligando
 function scr_sorteia_cliente(){
+    randomize();
     var _todos_clientes = scr_banco_clientes();
     var _indice_cliente = irandom(array_length(_todos_clientes) - 1);
     
