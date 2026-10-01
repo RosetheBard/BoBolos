@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"b8481fad-5a08-43dd-b879-2930cce65299","name":"b8481fad-5a08-43dd-b879-2930cce65299","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b541b55f-68ab-4b7a-9dfc-d443094cc8e6","name":"b541b55f-68ab-4b7a-9dfc-d443094cc8e6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"d52c79fd-2a06-4d77-84ad-8fa8ded4770d","blendMode":0,"displayName":"default","isLocked":false,"name":"d52c79fd-2a06-4d77-84ad-8fa8ded4770d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"115e073b-56e3-46cc-bd09-3aa5618a4ed0","blendMode":0,"displayName":"default","isLocked":false,"name":"115e073b-56e3-46cc-bd09-3aa5618a4ed0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_telefone",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b8481fad-5a08-43dd-b879-2930cce65299","path":"sprites/spr_telefone/spr_telefone.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"95f236f3-e281-4618-b954-eff3013ff81d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b541b55f-68ab-4b7a-9dfc-d443094cc8e6","path":"sprites/spr_telefone/spr_telefone.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"920c9ad6-b18c-4b9d-8fe9-b080077f45ac","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -84,7 +84,7 @@
     "name":"Default",
     "path":"texturegroups/Default",
   },
-  "type":3,
+  "type":0,
   "VTile":false,
   "width":64,
 }
