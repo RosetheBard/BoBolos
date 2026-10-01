@@ -53,6 +53,7 @@
     {"id":{"name":"fnt_h2","path":"fonts/fnt_h2/fnt_h2.yy",},},
     {"id":{"name":"fnt_h3","path":"fonts/fnt_h3/fnt_h3.yy",},},
     {"id":{"name":"nt_documentacao","path":"notes/nt_documentacao/nt_documentacao.yy",},},
+    {"id":{"name":"nt_sitema_de_pastas","path":"notes/nt_sitema_de_pastas/nt_sitema_de_pastas.yy",},},
     {"id":{"name":"obj_btn_back","path":"objects/obj_btn_back/obj_btn_back.yy",},},
     {"id":{"name":"obj_btn_balloon","path":"objects/obj_btn_balloon/obj_btn_balloon.yy",},},
     {"id":{"name":"obj_btn_leave","path":"objects/obj_btn_leave/obj_btn_leave.yy",},},
