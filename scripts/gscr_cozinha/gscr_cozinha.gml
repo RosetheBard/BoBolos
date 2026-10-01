@@ -9,5 +9,11 @@ function gscr_cozinha(){
         LARANJA,
         BAUNILHA,
         CHOCOLATE,
+		LARANJASEMGLUTEN,
+        BAUNILHASEMGLUTEN,
+        CHOCOLATESEMGLUTEM,
+		LARANJAVEGETAL,
+        BAUNILHAVEGETAL,
+        CHOCOLATEVEGETAL,
     }
 }
