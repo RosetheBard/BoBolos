@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_reset_draw",
+  "%Name":"scr_banco_clientes",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_reset_draw",
+  "name":"scr_banco_clientes",
   "parent":{
     "name":"Services",
     "path":"folders/Scripts/Services.yy",

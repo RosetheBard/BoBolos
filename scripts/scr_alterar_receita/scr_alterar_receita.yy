@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_reset_draw",
+  "%Name":"scr_alterar_receita",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_reset_draw",
+  "name":"scr_alterar_receita",
   "parent":{
     "name":"Services",
     "path":"folders/Scripts/Services.yy",

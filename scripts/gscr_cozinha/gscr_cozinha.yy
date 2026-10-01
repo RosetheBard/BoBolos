@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_reset_draw",
+  "%Name":"gscr_cozinha",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_reset_draw",
+  "name":"gscr_cozinha",
   "parent":{
-    "name":"Services",
-    "path":"folders/Scripts/Services.yy",
+    "name":"Globais",
+    "path":"folders/Scripts/Globais.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

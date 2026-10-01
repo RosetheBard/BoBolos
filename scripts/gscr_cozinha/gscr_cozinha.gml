@@ -1,0 +1,13 @@
+function gscr_cozinha(){
+    enum ALTERACOES_RECEITA {
+        SEM_ALTERACAO,
+        TROCAR_QTD,
+        ACRESC_INGREDIENTE,
+        REMOVER_INGREDIENTE,
+    }
+    enum SABORES_BOLO {
+        LARANJA,
+        BAUNILHA,
+        CHOCOLATE,
+    }
+}

@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_reset_draw",
+  "%Name":"gscr_telefone",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_reset_draw",
+  "name":"gscr_telefone",
   "parent":{
-    "name":"Services",
-    "path":"folders/Scripts/Services.yy",
+    "name":"Globais",
+    "path":"folders/Scripts/Globais.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
