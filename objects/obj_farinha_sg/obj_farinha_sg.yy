@@ -4,7 +4,10 @@
   "eventList":[],
   "managed":true,
   "name":"obj_farinha_sg",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_recipientes","path":"objects/obj_recipientes/obj_recipientes.yy",},"propertyId":{"name":"conteudo","path":"objects/obj_recipientes/obj_recipientes.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"INGREDIENTES.FARINHASG",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_recipientes","path":"objects/obj_recipientes/obj_recipientes.yy",},"propertyId":{"name":"conteudo_name","path":"objects/obj_recipientes/obj_recipientes.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Farinha Sem Gluten",},
+  ],
   "parent":{
     "name":"recipientes",
     "path":"folders/Objetos/Cozinha/recipientes.yy",

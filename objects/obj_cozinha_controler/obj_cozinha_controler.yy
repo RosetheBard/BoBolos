@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_controle_cozinha",
-  "eventList":[],
+  "%Name":"obj_cozinha_controler",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_controle_cozinha",
+  "name":"obj_cozinha_controler",
   "overriddenProperties":[],
   "parent":{
-    "name":"controlers",
-    "path":"folders/Objetos/Cozinha/controlers.yy",
+    "name":"controles",
+    "path":"folders/Objetos/Cozinha/controles.yy",
   },
   "parentObjectId":null,
   "persistent":false,

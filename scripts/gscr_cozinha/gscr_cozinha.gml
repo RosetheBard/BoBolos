@@ -16,4 +16,15 @@ function gscr_cozinha(){
         BAUNILHAVEGETAL,
         CHOCOLATEVEGETAL,
     }
+	enum INGREDIENTES {
+		NONE,
+		FARINHA,
+		LEITE,
+		OVO,
+		CHOCOLATE,
+		LARANJA,
+		BAUNILHA,
+		FARINHASG,
+		LEITEVG,
+	}
 }
